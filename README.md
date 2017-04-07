@@ -1,7 +1,9 @@
 Color Blocks
 ===
 
-In this challenge you will be creating an application that will create colored `<div>` tag each time the corresponding color is clicked. As each color (button) is clicked, it should increment the corresponding label. HTML and CSS are provided, the focus here is jQuery.**IMPORTANT CONSIDERATIONS**
+In this challenge you will be creating an application that will create colored `<div>` tag each time the corresponding color is clicked. As each color (button) is clicked, it should increment the corresponding label. HTML and CSS are provided, the focus here is jQuery.
+
+**IMPORTANT CONSIDERATIONS**
 
 - _HTML and CSS are provided_ and shouldn't require code changes.
 - You can use jQuery's `.data()` method to retrieve the `data-color` HTML attributes. [A relevant StackOverflow](http://stackoverflow.com/questions/5309926/how-to-get-the-data-id-attribute).
@@ -11,9 +13,10 @@ Base Mode:
 
 Include JQuery in the project. Create and source in your JS file. Within, you'll need to create a click event for the "color-button" class which appends a div of class "color-cube" to the "container" div. 
 
-You'll also need to use the "data-color" from the clicked button. Use this info to control what color the appended cube is. Ex: if the user clicked the "Red" button, a red cube should be added to the DOM.
+Use the "data-color" from the clicked button to determine the new cube's color. 
+Ex: if the user clicked the "Red" button, a red cube should be added to the DOM.
 
-Finally, the spans should have a count of how many of each color cube is on the page. Ex: The user clicks the "Yellow" button - a new yellow cube is appended to the DOM and the span with id of "yellow" should increment by 1.
+Finally, each ```span``` should have a count of how many of its cube are on the page. Ex: The user clicks the "Yellow" button - a new yellow cube is appended to the DOM and the ```span``` with id of "yellow" should increment by 1.
 
 Starting this project
 To start this code challenge fork this repository and clone it to your machine.
