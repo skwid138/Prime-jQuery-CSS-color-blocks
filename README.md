@@ -23,11 +23,11 @@ Application interface examples
 
 Here is an image of how things should look:
 
-![static page view](images/image0.png)
+![static page view](image0.png)
 
 Here is a gif of how things should like in action:
 
-![animated page view](images/image1.gif)
+![animated page view](image1.gif)
 
 Hard Mode:
 ---
