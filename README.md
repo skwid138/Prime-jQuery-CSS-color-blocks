@@ -19,6 +19,7 @@ Ex: if the user clicked the "Red" button, a red cube should be added to the DOM.
 Finally, each ```span``` should have a count of how many of its cube are on the page. Ex: The user clicks the "Yellow" button - a new yellow cube is appended to the DOM and the ```span``` with id of "yellow" should increment by 1.
 
 Starting this project
+---
 To start this code challenge fork this repository and clone it to your machine.
 
 Application interface examples
