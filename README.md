@@ -7,6 +7,7 @@ In this challenge you will be creating an application that will create colored `
 
 - _HTML and CSS are provided_ and shouldn't require code changes.
 - You can use jQuery's `.data()` method to retrieve the `data-color` HTML attributes. [A relevant StackOverflow](http://stackoverflow.com/questions/5309926/how-to-get-the-data-id-attribute).
+- Since the CSS is provided, you will need a jQuery method to apply a class to an element on the dom. A search that includes the technology and what you are trying to do should turn up something good. Try searching "_jquery apply css class to div_".
 
 Base Mode:
 ---
