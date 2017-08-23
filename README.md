@@ -42,3 +42,8 @@ Also, the counts of the color blocks should update.
 
 Ex: There are 6 Blue cubes on the DOM. The user clicks one of the blue cubes. It disappears and the blue cube counter updates to 5.
         
+Pro Mode:
+--- 
+Augment your your removal feature, by adding a delete button to each cube. When the delete button is clicked the cube that it is on should be removed. This will require some traversal. How do you get from the button to the block that contains it?
+
+
